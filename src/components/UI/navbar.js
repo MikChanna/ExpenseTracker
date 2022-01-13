@@ -1,6 +1,6 @@
 import './navbar.css'
 
-function navbar() {
+const navbar = () => {
     return (
         <nav className="nav">
             <h1>Expense Tracker</h1>

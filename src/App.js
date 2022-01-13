@@ -1,7 +1,7 @@
-import Expenses from './components/expenses'
-import Navbar from './components/navbar'
+import Expenses from './components/expenses/expenses'
+import Navbar from './components/UI/navbar'
 
-function App() {
+const App = () => {
     const expenses = [
         {
             id: 'e1',
