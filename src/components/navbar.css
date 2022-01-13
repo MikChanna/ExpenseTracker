@@ -1,0 +1,13 @@
+.nav {
+    border: 1px solid white;
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.nav h1 {
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 30px;
+}
